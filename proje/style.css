@@ -1,0 +1,38 @@
+#header {
+  position: relative;
+  top: -10px;
+  background-color: #1aff57;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  height: 40px;
+}
+
+h1 {
+  font-family: Lobster;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+
+textarea {
+  vertical-align: top;
+  width: 300px;
+  color: #777;
+}
+
+#wrapper {
+  text-align: center;
+  
+  
+}
+
+#inputs {
+  width: 200px;
+  clear: both;
+  margin: 0 auto;
+}
+
+#inputs input {
+  width: 100%;
+  clear: both;
+}
